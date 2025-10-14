@@ -2,7 +2,7 @@
 演講日期:114/9/23\
 演講者:廖文華 教授
 
-# 前言
+## 前言
 抓資料可以用於打卡簽到
 
 Data mining 
@@ -21,7 +21,7 @@ Data mining
 
 
 
-介紹
+## 介紹
 
 疫情 流行病
 
@@ -39,13 +39,13 @@ GNSS
 
 相關工作
 
-PIP
+## PIP
 
 GNSS 用的很多
 
 繞線 幾何學
 
-KNN
+## KNN
 
 分類 機器學習會用到
 
@@ -59,13 +59,13 @@ KNN
 
 廣告那種會比較不準確
 
-PIP 介紹
+## PIP 介紹
 
 ![](https://com.miui.notes/note_image/8ccfad0f8a7a6d58914dac123d9181ec22eb6b97)
 
 用g2做說明 我把點畫一條進多邊性如果有兩個焦點我可以知道他是在外面的節點
 
-KNN
+## KNN
 
 ![](https://com.miui.notes/note_image/711aafcc76887eeed00ef2604d7a30568ad6beb0)
 
@@ -99,7 +99,7 @@ KNN
 
 
 
-系統模式
+## 系統模式
 
 先以時間標籤
 
@@ -115,7 +115,7 @@ PIP沒有準確度問題
 
 
 
-系統模型
+## 系統模型
 
 ![](https://com.miui.notes/note_image/23c561cb7d18168e6fadf4acb85d18f17f14e6c2)
 
@@ -127,7 +127,7 @@ PIP沒有準確度問題
 
 以交點得知這個點會在多邊形的哪裡
 
-KNN 的策略
+## KNN 的策略
 
 ![](https://com.miui.notes/note_image/47387509785d3cb2a187bdc5c4c9d93af4434ed5)
 
@@ -143,7 +143,7 @@ KNN 的策略
 
 
 
-假設實驗
+## 假設實驗
 
 ![](https://com.miui.notes/note_image/f38efc822f6d2268fa4a69fe60719009a9107167)
 
@@ -161,7 +161,7 @@ KNN 的策略
 
 
 
-實際時間
+## 實際時間
 
 ![](https://com.miui.notes/note_image/67eccb79dbde9fbc28fae524ab12e3905c294ed4)
 
@@ -171,7 +171,7 @@ KNN 的策略
 
 
 
-結論
+## 結論
 
 把KNN把他變成能夠處理大數據，不是一兩千筆而是百萬筆，把時間加速快了500多倍，損失準確度有限，法規上面可以嗎
 
