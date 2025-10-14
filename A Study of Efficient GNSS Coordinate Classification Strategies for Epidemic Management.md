@@ -128,7 +128,7 @@ PIP沒有準確度問題
 
 ## KNN 的策略
 
-![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140833.jpg)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_142842.jpg)
 
 你需要做正規化 KNN找出K個出來比 我從鄰居（已經判定好的資料）比較出來我是在哪裡 台中 高雄 台北 
 
