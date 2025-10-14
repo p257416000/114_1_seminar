@@ -116,7 +116,7 @@ PIP沒有準確度問題
 
 ## 系統模型
 
-![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140045.jpg)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140248.jpg)
 
 網路上沒人跟你說這些人會在哪裡
 
