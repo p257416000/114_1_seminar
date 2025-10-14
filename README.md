@@ -5,7 +5,7 @@
 
 10/7 半導體電漿電源的演進，應用與挑戰[當日請病假]
 
-10/14 A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management
+10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management.md)
 
 10/21 綠色科技與光電元件
 
