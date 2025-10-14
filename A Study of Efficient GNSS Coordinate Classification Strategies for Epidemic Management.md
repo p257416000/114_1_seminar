@@ -1,6 +1,6 @@
 # A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management
 演講日期:114/9/23\
-演講者:廖文華 教授\
+演講者:廖文華 教授
 
 # 前言
 抓資料可以用於打卡簽到
