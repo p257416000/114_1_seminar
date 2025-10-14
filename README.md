@@ -3,7 +3,7 @@
 
 9/30 [奈微機電系統技術及應用](https://github.com/p257416000/114_1_seminar/blob/main/%E5%A5%88%E5%BE%AE%E6%A9%9F%E9%9B%BB%E7%B3%BB%E7%B5%B1%E6%8A%80%E8%A1%93%E5%8F%8A%E6%87%89%E7%94%A8.md)
 
-10/7 半導體電漿電源的演進，應用與挑戰
+10/7 半導體電漿電源的演進，應用與挑戰[當日請病假]
 
 10/14 A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management
 
