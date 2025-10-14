@@ -77,13 +77,13 @@ GNSS 用的很多
 
 最大的難度是如何將資料數值化
 
-![](https://com.miui.notes/note_image/11e8b982601a197df0236c896e28bb7b4cae0644)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_134900.jpg)
 
 根據步驟可以讓他知道集群的點在哪 但是排序的時間可能要很長 
 
 
 
-![](https://com.miui.notes/note_image/83b2e3e594b43a5b44c06e18dd144a17243c4a59)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_135218.jpg)
 
 我要在這個區域內找都我要主題（人口密集圖）
 
@@ -93,7 +93,7 @@ GNSS 用的很多
 
 假設資料是需要追蹤的人
 
-![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_134900.jpg)
+![]()
 
 數據可能會跟常識一樣 沒有取得重要的關連
 
