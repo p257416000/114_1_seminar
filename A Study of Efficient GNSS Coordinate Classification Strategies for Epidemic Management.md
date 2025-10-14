@@ -105,7 +105,7 @@ GNSS 用的很多
 
 很快做分類
 
-![](https://com.miui.notes/note_image/88ec3a35740c2e4f7986db30d52f6de85040b7a9)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_135740.jpg)
 
 收到訊號就分類
 
@@ -117,7 +117,7 @@ PIP沒有準確度問題
 
 ## 系統模型
 
-![](https://com.miui.notes/note_image/23c561cb7d18168e6fadf4acb85d18f17f14e6c2)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140045.jpg)
 
 網路上沒人跟你說這些人會在哪裡
 
@@ -129,7 +129,7 @@ PIP沒有準確度問題
 
 ## KNN 的策略
 
-![](https://com.miui.notes/note_image/47387509785d3cb2a187bdc5c4c9d93af4434ed5)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140833.jpg)
 
 你需要做正規化 KNN找出K個出來比 我從鄰居（已經判定好的資料）比較出來我是在哪裡 台中 高雄 台北 
 
@@ -145,7 +145,7 @@ PIP沒有準確度問題
 
 ## 假設實驗
 
-![](https://com.miui.notes/note_image/f38efc822f6d2268fa4a69fe60719009a9107167)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_142201.jpg)
 
 把有人打卡的地方當作一個人
 
@@ -163,7 +163,7 @@ PIP沒有準確度問題
 
 ## 實際時間
 
-![](https://com.miui.notes/note_image/67eccb79dbde9fbc28fae524ab12e3905c294ed4)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_142842.jpg)
 
 優化使用精確度換取時間
 
