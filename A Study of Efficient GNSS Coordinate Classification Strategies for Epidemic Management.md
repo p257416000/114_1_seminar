@@ -93,7 +93,7 @@ GNSS 用的很多
 
 假設資料是需要追蹤的人
 
-![](https://com.miui.notes/note_image/3811b918cac5e884fb06b8282b6271740e055375)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_134900.jpg)
 
 數據可能會跟常識一樣 沒有取得重要的關連
 
