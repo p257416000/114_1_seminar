@@ -61,7 +61,7 @@ GNSS 用的很多
 
 ## PIP 介紹
 
-![](https://com.miui.notes/note_image/8ccfad0f8a7a6d58914dac123d9181ec22eb6b97)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_134034.jpg)
 
 用g2做說明 我把點畫一條進多邊性如果有兩個焦點我可以知道他是在外面的節點
 
