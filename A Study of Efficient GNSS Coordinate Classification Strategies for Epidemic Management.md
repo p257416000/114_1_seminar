@@ -67,7 +67,7 @@ GNSS 用的很多
 
 ## KNN
 
-![](https://com.miui.notes/note_image/711aafcc76887eeed00ef2604d7a30568ad6beb0)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_134319.jpg)
 
 我會掃描去掃描測試資料
 
