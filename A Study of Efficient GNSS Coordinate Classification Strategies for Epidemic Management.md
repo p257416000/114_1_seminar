@@ -91,8 +91,8 @@ GNSS 用的很多
 資料非常龐大 一百多萬筆
 
 假設資料是需要追蹤的人
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_135740.jpg)
 
-![]()
 
 數據可能會跟常識一樣 沒有取得重要的關連
 
@@ -104,7 +104,7 @@ GNSS 用的很多
 
 很快做分類
 
-![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_135740.jpg)
+![](https://github.com/p257416000/114_1_seminar/blob/main/10-14/IMG_20251014_140045.jpg)
 
 收到訊號就分類
 
