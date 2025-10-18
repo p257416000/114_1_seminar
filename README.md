@@ -16,3 +16,4 @@
 
 12/23 待定
 ## 書面報告
+10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management%20%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.md)
