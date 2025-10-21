@@ -8,7 +8,7 @@
 
 10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management.md)
 
-10/21 [綠色科技與光電元件](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management.md)
+10/21 [綠色科技與光電元件](https://github.com/p257416000/114_1_seminar/blob/main/%E7%B6%A0%E8%89%B2%E7%A7%91%E6%8A%80%E8%88%87%E5%85%89%E9%9B%BB%E5%85%83%E4%BB%B6.md)
 
 11/11 生成式人工智慧與異質平台整合應用
 
