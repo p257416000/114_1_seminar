@@ -18,4 +18,4 @@
 ## 書面報告
 10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management%20%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.md)
 
-11/11[生成式人工智慧與異質平台整合應用]()
+11/11[生成式人工智慧與異質平台整合應用](https://github.com/p257416000/114_1_seminar/blob/main/%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E7%95%B0%E8%B3%AA%E5%B9%B3%E5%8F%B0%E6%95%B4%E5%90%88%E6%87%89%E7%94%A8%20%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.md)
