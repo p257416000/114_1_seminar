@@ -14,7 +14,7 @@
 
 11/18 [台灣的地震觀測漫談地震觀測的趣味與挑戰](https://github.com/p257416000/114_1_seminar/blob/main/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%9C%B0%E9%9C%87%E8%A7%80%E6%B8%AC%E6%BC%AB%E8%AB%87%E5%9C%B0%E9%9C%87%E8%A7%80%E6%B8%AC%E7%9A%84%E8%B6%A3%E5%91%B3%E8%88%87%E6%8C%91%E6%88%B0.md)
 
-12/23 [Ultra Lightweight Dehaze Methods for Robot Vision Using High-Levell Synthesis]()
+12/23 [Ultra Lightweight Dehaze Methods for Robot Vision Using High-Levell Synthesis](https://github.com/p257416000/114_1_seminar/blob/main/Ultra%20Lightweight%20Dehaze%20Methods%20for%20Robot%20Vision%20Using%20High-Levell%20Synthesis.md)
 ## 書面報告
 10/14 [A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management](https://github.com/p257416000/114_1_seminar/blob/main/A%20Study%20of%20Efficient%20GNSS%20Coordinate%20Classification%20Strategies%20for%20Epidemic%20Management%20%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.md)
 
